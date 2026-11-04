@@ -14,6 +14,7 @@ Imagens e sons dos temas de evento do Phantom Menu, um tema por pasta:
 - `natal/bells-open-fade.wav`: trecho adaptado de "Sleigh Bells Sound", de Alexander / Orange Free Sounds
   (https://orangefreesounds.com/sleigh-bells-sound/), licença CC BY 4.0
   (https://creativecommons.org/licenses/by/4.0/). Cortado em 2,5 segundos, com filtro passa-alta e fade out a partir de 0,65s.
-- `icones/phantom-icons.otf`: ícones server, users, shield e key do Tabler Icons 3.44.0 (https://tabler.io/icons),
-  licença MIT, Copyright (c) 2020-2026 Paweł Kuna. Ficam nas letras a (server), b (shield), c (key) e d (users).
+- `icones/tabler-icons.otf`: ícones server, shield, calendar, users e building-community do Tabler Icons 3.44.0
+  (https://tabler.io/icons), licença MIT, Copyright (c) 2020-2026 Paweł Kuna. Ficam nas letras a (server), b (shield),
+  c (calendar), d (users) e e (building-community).
 - As demais imagens foram feitas para o Phantom Menu.
