@@ -17,7 +17,10 @@ Imagens e sons dos temas de evento do Phantom Menu, um tema por pasta:
 - `natal/sleigh-*.png`: "Santa's Sleigh And Reindeer Silhouette", de GDJ
   (https://openclipart.org/detail/291102/santas-sleigh-and-reindeer-silhouette), domínio público pelo Openclipart,
   adaptada pelo autor de uma imagem do Pixabay. Recortada em trenó e 4 renas, sem as rédeas (o menu anima o galope), reduzida à metade, pintada de branco (a cor vem do menu) e espelhada nas versões `-left`.
-- `icones/tabler-icons.otf`: ícones server, shield, calendar, users e building-community do Tabler Icons 3.44.0
-  (https://tabler.io/icons), licença MIT, Copyright (c) 2020-2026 Paweł Kuna. Ficam nas letras a (server), b (shield),
-  c (calendar), d (users) e e (building-community).
+- `icones/menu-icons.otf`: ícones do Tabler Icons 3.44.0 (https://tabler.io/icons), licença MIT, Copyright (c)
+  2020-2026 Paweł Kuna, copiados da fonte oficial `@tabler/icons-webfont`. Ficam nas letras a (server), b (shield),
+  c (calendar), d (users), e (building-community), f (alert-triangle), g (clock) e h (history). Para adicionar ícone,
+  gere a fonte com um nome de arquivo novo: o executor guarda a fonte pelo nome.
+- `icones/tabler-icons.otf`: a fonte anterior, só com as letras a até e. Fica até a versão do menu que usa a
+  `menu-icons.otf` estar no ar, depois pode apagar.
 - As demais imagens foram feitas para o Phantom Menu.
