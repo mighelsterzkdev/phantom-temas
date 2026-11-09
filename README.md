@@ -5,6 +5,7 @@ Imagens e sons dos temas de evento do Phantom Menu, um tema por pasta:
 - `halloween/`: tema Halloween.
 - `natal/`: tema Natal.
 - `icones/`: fonte com os ícones do menu.
+- `logo/`: logo do menu recolhido.
 
 ## Origem
 
@@ -23,4 +24,6 @@ Imagens e sons dos temas de evento do Phantom Menu, um tema por pasta:
   gere a fonte com um nome de arquivo novo: o executor guarda a fonte pelo nome.
 - `icones/tabler-icons.otf`: a fonte anterior, só com as letras a até e. Fica até a versão do menu que usa a
   `menu-icons.otf` estar no ar, depois pode apagar.
+- `logo/phantom-compact.png`: "P" da logo do Phantom para a lateral recolhida, gerada para o Phantom Menu.
+  Toda branca, 25x36 (o tamanho em que é desenhada); o menu pinta a barrinha de baixo com a cor do tema.
 - As demais imagens foram feitas para o Phantom Menu.
