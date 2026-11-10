@@ -11,7 +11,7 @@ Imagens e sons dos temas de evento do Phantom Menu, um tema por pasta:
 
 - `halloween/bat-*.png`: quadros do GIF de morcego feito para o Phantom Menu.
 - `halloween/vignette.png`: gerada por código.
-- `natal/snowflake-*.png`: quadros do GIF de floco feito para o Phantom Menu.
+- `natal/snowflake-*.png`: 13 quadros PNG gerados pela rotação do mesmo floco vetorial de seis braços.
 - `natal/bells-open-fade.wav`: trecho adaptado de "Sleigh Bells Sound", de Alexander / Orange Free Sounds
   (https://orangefreesounds.com/sleigh-bells-sound/), licença CC BY 4.0
   (https://creativecommons.org/licenses/by/4.0/). Cortado em 2,5 segundos, com filtro passa-alta e fade out a partir de 0,65s.
