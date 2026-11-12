@@ -4,7 +4,7 @@ https://orangefreesounds.com/sleigh-bells-sound/
 CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
 Adaptado com corte para 2,5 s, filtro passa-alta e fade out a partir de 0,65 s.
 
-icones/menu-icons.otf
+icones/menu-icons.otf, interface/plug-x-24.png
 Tabler Icons 3.44.0 — https://github.com/tabler/tabler-icons/tree/v3.44.0
 
 MIT License
