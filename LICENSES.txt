@@ -32,3 +32,7 @@ SOFTWARE.
 fontes/inter-regular.ttf, fontes/inter-medium.ttf
 Inter — Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
 SIL Open Font License, Version 1.1 — https://openfontlicense.org
+
+fontes/roboto-regular.ttf, fontes/roboto-medium.ttf
+Roboto — Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)
+SIL Open Font License, Version 1.1 — https://openfontlicense.org
