@@ -40,3 +40,7 @@ Font Awesome Free 6.5.2 (https://fontawesome.com) — ícones lightbulb, triangl
 interface/list-steering-wheel-16.png
 Tabler Icons (https://tabler.io/icons) — ícone steering-wheel-filled rasterizado em 16px
 Copyright (c) 2020-2025 Paweł Kuna — MIT License — https://github.com/tabler/tabler-icons/blob/main/LICENSE
+
+interface/gb-*-16.png
+MingCute Icon (https://www.mingcute.com) — ícones dos grupos rasterizados em 16px
+Copyright (c) MingCute Design — Apache License 2.0 — https://github.com/Richard9394/MingCute/blob/main/LICENSE
